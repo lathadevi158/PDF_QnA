@@ -25,26 +25,21 @@ This project allows you to **chat with multiple PDF documents** using Google's *
 
 ---
 
-## 📁 Directory Structure
-
-.
-├── app.py # Main Streamlit app
-├── faisss_index/ # Vector store (auto-generated)
-├── .env # Environment variables 
-├── requirements.txt # Dependencies
-└── README.md # Project documentation
-
 
 ▶️ Run the App
 
 streamlit run app.py
+
 Open your browser and go to: http://localhost:8501 (or Streamlit will auto-launch it).
 
+---
 
-📄 License
+📄 **License**  
 This project is licensed under the MIT License.
 
----------🙋‍♀️ Author---------
-Marpally Latha Devi,
-Prompt Engineer | Generative AI Developer,
-GitHub: lathadevi158
+---
+
+🙋‍♀️ **Author**  
+**Marpally Latha Devi**  
+Prompt Engineer | Generative AI Developer  
+GitHub: [lathadevi158](https://github.com/lathadevi158)
